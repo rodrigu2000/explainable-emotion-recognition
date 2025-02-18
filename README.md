@@ -1,2 +1,2 @@
-# explainable-sentiment-analysis
+# explainable-emotion-recognition
 Explainable emotion recognition
